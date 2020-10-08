@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Tejasri - Journey of Data Science
 
-You can use the [editor on GitHub](https://github.com/Tejasri-Surapaneni/Tejasri-Portfolio/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+## Certifications
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<img src = "" height = "" width = ""> &nbsp; &nbsp; &nbsp; &nbsp; <img src = "" height = "" width = ""> &nbsp; &nbsp; &nbsp; &nbsp; <img src = "" height = "" width = "">
 
 ### Markdown
 
