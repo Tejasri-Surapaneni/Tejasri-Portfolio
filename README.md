@@ -4,7 +4,7 @@
 
 <img src = "https://github.com/Tejasri-Surapaneni/Tejasri-Portfolio/blob/main/Images/AWSCSA.png" height = "150" width = "150">  &nbsp; &nbsp; &nbsp; &nbsp; 
 <img src = "https://github.com/Tejasri-Surapaneni/Tejasri-Portfolio/blob/main/Images/tableau.png" height = "150" width = "200"> &nbsp; &nbsp; &nbsp; &nbsp; 
-<img src = "https://github.com/Tejasri-Surapaneni/Tejasri-Portfolio/blob/main/Images/Dataiku.png" height = "150" width = "200">
+<img src = "https://github.com/Tejasri-Surapaneni/Tejasri-Portfolio/blob/main/Images/Dataiku.png" height = "130" width = "200">
 
 ### Markdown
 
