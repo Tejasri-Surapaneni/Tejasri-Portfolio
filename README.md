@@ -1,4 +1,3 @@
-## Tejasri's - Journey of DataScience
 
 ## Certifications 
 
