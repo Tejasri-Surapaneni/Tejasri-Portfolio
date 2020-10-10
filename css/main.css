@@ -1,43 +1,64 @@
-body {
-    margin: 60px auto;
-    width: 70%;
+*{
+	margin: 0;
+	padding: 0;
 }
-nav ul, footer ul {
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
-    padding: 0px;
-    list-style: none;
-    font-weight: bold;
+html, body{
+	width: 100%;
+	height: 100%;
+	font-size: 14px;
+	font-weight: normal;
+	
 }
-nav ul li, footer ul li {
-    display: inline;
-    margin-right: 20px;
+.background{
+	width: 100%;
+	height: 100%;
+	background-image: url(../imahges);
+	background-repeat: no-repeat;
+	background-size: cover;
+	position: relative;
+	overflow-y: auto;
 }
-a {
-    text-decoration: none;
-    color: #999;
+.nav{
+	width: 350px;
+	height: auto;
+	background-color: gray;
+	position: absolute;
+	top = 20%;
+	left = 0;
 }
-a:hover {
-    text-decoration: underline;
-}
-h1 {
-    font-size: 3em;
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
-}
-p {
-    font-size: 1.5em;
-    line-height: 1.4em;
-    color: #333;
-}
-footer {
-    border-top: 1px solid #d5d5d5;
-    font-size: .8em;
+.nav a{
+	text-decoration: none;
+	font-size: 28px;
+	font-family: verdana;
+	font-weight: bold;
+	height=90px
+	margin: 5px 0;
+	float : left;
+	display: inline-block;
+	background-color: black;
+	color: white;
+	line-height: 90px;
+	text-align: center;
+	transition: 300ms;
 }
 
-ul.posts { 
-    margin: 20px auto 40px; 
-    font-size: 1.5em;
+a.active, .nav a:hover{
+	background-color: white;
+	color: black;
+	width: 100%;
+}
+.a{
+	width: 95%;
+}
+.b{
+	width: 85%;
 }
 
-ul.posts li {
-    list-style: none;
+.c{
+	width: 80%;
 }
+.d{
+ 	width: 90%
+}
+
+
