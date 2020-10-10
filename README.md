@@ -1,4 +1,4 @@
-## Tejasri Surapaneni
+## Tejasri's Journey of Data Science
 
 ## Certifications 
 
