@@ -31,7 +31,7 @@
 * Knowing which custom id specifies what data was a really important task as that broke the complex problem into a tiny pieces which can be easily processed and analyzed further. 
 * 
 
-## Computer Vision - Detection of anamolies in the manufacturing industry
+## Computer Vision - Detection of anamolies
 <hr>
 
 *	Worked on the computer vision project which is real time detection of anomalies in the manufacturing steel industry using computer vision techniques and algorithms. 
