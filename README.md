@@ -7,7 +7,15 @@
 <a href="https://verify.skilljar.com/c/nkgzyihh2cz8"> <img src = "Images/Dataiku.png" height = "130" width = "200"></a>
 
 
-### Projects Worked on 
+### Projects
+* Plugin to Integrate Pega and Dataiku
+* Jira Project
+* Image Redaction
+* Conversion of speech to text and populate in the health care form
+* Oil and Gas Project - Seismic, las and tiff 
+* COVID forecasting 
+* Computer Vision - Detection of anamolies in the manufacturing industry
+
 
 ## Jira Project 
 
