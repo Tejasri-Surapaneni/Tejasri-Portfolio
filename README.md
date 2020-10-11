@@ -1,15 +1,15 @@
 ## My Journey of Data Science
-----
+<hr>
 
 ## Certifications 
-----
+<hr>
 <a href="https://www.youracclaim.com/badges/ea4effc3-943c-4f0f-b8dc-6afe2cb2dbab"> <img src = "Images/AWSCSA.png" height = "150" width = "150"> </a> &nbsp; &nbsp; &nbsp; &nbsp; 
 <a href="https://www.youracclaim.com/badges/d9766deb-479f-47fe-9604-aad72bda10ae/linked_in_profile"> <img src = "Images/tableau.png" height = "150" width = "200"> </a> &nbsp; &nbsp; &nbsp; &nbsp; 
 <a href="https://verify.skilljar.com/c/nkgzyihh2cz8"> <img src = "Images/Dataiku.png" height = "130" width = "200"></a>
 
 
 ## Projects
-----
+<hr>
 <p> &#9757; &nbsp; Plugin to Integrate Pega and Dataiku </p>
 <p> &#127872; &nbsp; Jira Project </p>
 <p> &#9757; &nbsp; Image Redaction </p>
@@ -19,7 +19,7 @@
 
 
 ## Jira Project 
-----
+<hr>
 
 * We all know that Jira is an Issue and Project tracking software which is used in many organizations to keep a track of multiple components for each project.
 * This tool generates an abundance of data for each ticket and surplus for each project. This data is originially retained in the JSON format which is a semi-structured data. 
@@ -32,7 +32,7 @@
 * 
 
 ## Computer Vision - Detection of anamolies in the manufacturing industry
-
+<hr>
 
 *	Worked on the computer vision project which is real time detection of anomalies in the manufacturing steel industry using computer vision techniques and algorithms. 
 *	Training the model with the image dataset which is retrieved from the NEU database. Annotating the images (XML) and then training the model with both the raw images and annotated datasets.
@@ -42,7 +42,7 @@
 *	Worked on automating the ETL pipelines separately based on the domain data and the structure of it. 
 
 ## Oil and Gas Project - Seismic, las and tiff 
-
+<hr>
 
 *	Working on the industry (O&G) specific data standards and formats of data – seismic (.sgy), LAS and tiff files which are the standard formats for the oil and gas industry where the data is stored in the form of waves and traces not just the unstructured and structured like csv, parquet but also the binary structured files. 
 *	Extracted the data from the seismic file which is in the binary structured format and then extracted the essential information like ARN, resource extracted (oil or gas), location, country, county and many more and converted into a structured file. 
