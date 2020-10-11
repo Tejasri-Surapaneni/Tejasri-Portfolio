@@ -1,4 +1,4 @@
-## Tejasri's Journey of Data Science
+## My Journey of Data Science
 
 ## Certifications 
 
