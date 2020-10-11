@@ -1,12 +1,37 @@
+<style type=text/css> 
+         .leftdiv 
+         { 
+         float: left; 
+         } 
+         .middlediv 
+         { 
+         float: left; 
+         background-color:gray 
+         } 
+         .rightdiv 
+         { 
+         float: left; 
+         } 
+         div{ 
+         padding : 1%; 
+         color: white; 
+         background-color: 009900; 
+         width: 30%; 
+         border: solid black; 
+         } 
+      </style> 
+      
 ## My Journey of Data Science
 <hr size="30" noshade> 
 
 ## Certifications 
-<hr size="5" noshade> 
+<hr size="50" noshade> 
+
+<div class="leftdiv">
 <a href="https://www.youracclaim.com/badges/ea4effc3-943c-4f0f-b8dc-6afe2cb2dbab"> <img src = "Images/AWSCSA.png" height = "150" width = "150"> </a> &nbsp; &nbsp; &nbsp; &nbsp; 
 <a href="https://www.youracclaim.com/badges/d9766deb-479f-47fe-9604-aad72bda10ae/linked_in_profile"> <img src = "Images/tableau.png" height = "150" width = "200"> </a> &nbsp; &nbsp; &nbsp; &nbsp; 
 <a href="https://verify.skilljar.com/c/nkgzyihh2cz8"> <img src = "Images/Dataiku.png" height = "130" width = "200"></a>
-
+</div
 
 ## Projects
 <hr size="4" noshade> 
