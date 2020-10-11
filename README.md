@@ -7,7 +7,7 @@
 <a href="https://verify.skilljar.com/c/nkgzyihh2cz8"> <img src = "Images/Dataiku.png" height = "130" width = "200"></a>
 
 
-## Projects
+## Projects_
 
 :point_up: Plugin to Integrate Pega and Dataiku
 * Jira Project
