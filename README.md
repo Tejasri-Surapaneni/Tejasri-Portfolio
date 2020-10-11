@@ -9,7 +9,7 @@
 
 ## Projects_
 
-&#127872; Plugin to Integrate Pega and Dataiku
+&#127872; &nbsp; Plugin to Integrate Pega and Dataiku
 * Jira Project
 * Image Redaction
 * Conversion of speech to text and populate in the health care form
