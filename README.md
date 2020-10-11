@@ -9,6 +9,11 @@
 
 ## Projects
 
+<div class="block">
+<h1>Hello hello</h1>
+<p>Some even more exciting text, lorem etc.</p>
+</div>
+
 <div id="block">
 <ul>
 <li>Plugin to Integrate Pega and Dataiku</li>
