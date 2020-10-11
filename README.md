@@ -8,6 +8,7 @@
 
 
 ### Projects
+
 * Plugin to Integrate Pega and Dataiku
 * Jira Project
 * Image Redaction
@@ -19,6 +20,7 @@
 
 ## Jira Project 
 
+```markdown
 * We all know that Jira is an Issue and Project tracking software which is used in many organizations to keep a track of multiple components for each project.
 * This tool generates an abundance of data for each ticket and surplus for each project. This data is originially retained in the JSON format which is a semi-structured data. 
 * Through an API call the data is fetched using the Lambda function followed by the step function which can fetch all the data through multiple iterations and then store the raw data in the S3 bucket. 
@@ -28,26 +30,28 @@
 * Using pyspark, glue and sql context, the schema was extracted and extracted the components based on the names and the custom id's per each field. 
 * Knowing which custom id specifies what data was a really important task as that broke the complex problem into a tiny pieces which can be easily processed and analyzed further. 
 * 
-
+```
 ## Computer Vision - Detection of anamolies in the manufacturing industry
 
-•	Worked on the computer vision project which is real time detection of anomalies in the manufacturing steel industry using computer vision techniques and algorithms. 
-•	Training the model with the image dataset which is retrieved from the NEU database. Annotating the images (XML) and then training the model with both the raw images and annotated datasets.
-•	Researching and implementing algorithms like YOLO, SSD using python, tweaking and tuning the parameters like image width, height, anchor boxes, bounding box width, batch size to get the desired predictions and validating the resulting prediction json file with the score and bounding box parameters. Validating the trained modeled and checked with the original annotation of the model to evaluate how well the model worked. 
-•	Writing the test cases for all the predictions of the model and then identifying which model through which parameters yielded the better results which is identifying or classifying the defects well in an image given.
-•	Working with structured data, writing queries to extract, load and transform the data in SQL, querying in Athena. Implemented data manipulation, wrangling and visualizing the data for building useful and significant insights and empowering them using the dashboards of tableau, Power BI and AWS Quick sight. 
-•	Worked on automating the ETL pipelines separately based on the domain data and the structure of it. 
-
+```markdown
+*	Worked on the computer vision project which is real time detection of anomalies in the manufacturing steel industry using computer vision techniques and algorithms. 
+*	Training the model with the image dataset which is retrieved from the NEU database. Annotating the images (XML) and then training the model with both the raw images and annotated datasets.
+*	Researching and implementing algorithms like YOLO, SSD using python, tweaking and tuning the parameters like image width, height, anchor boxes, bounding box width, batch size to get the desired predictions and validating the resulting prediction json file with the score and bounding box parameters. Validating the trained modeled and checked with the original annotation of the model to evaluate how well the model worked. 
+*	Writing the test cases for all the predictions of the model and then identifying which model through which parameters yielded the better results which is identifying or classifying the defects well in an image given.
+* Working with structured data, writing queries to extract, load and transform the data in SQL, querying in Athena. Implemented data manipulation, wrangling and visualizing the data for building useful and significant insights and empowering them using the dashboards of tableau, Power BI and AWS Quick sight. 
+*	Worked on automating the ETL pipelines separately based on the domain data and the structure of it. 
+```
 ## Oil and Gas Project - Seismic, las and tiff 
 
-•	Working on the industry (O&G) specific data standards and formats of data – seismic (.sgy), LAS and tiff files which are the standard formats for the oil and gas industry where the data is stored in the form of waves and traces not just the unstructured and structured like csv, parquet but also the binary structured files. 
-•	Extracted the data from the seismic file which is in the binary structured format and then extracted the essential information like ARN, resource extracted (oil or gas), location, country, county and many more and converted into a structured file. 
-•	Extracting the valuable information from the data which includes well location, county, resource extracted from the data files (binary, text, pdf, tiff) and converting the unstructured data into a structured data files (csv, parquet) maintaining the compatibility of all versions of the files extracted and integrating on a single format structure. 
-•	Ingesting the data into the elastic search and enhancing the capabilities of searching, querying, visualizing the data in the Kibana dev-tools (dev-endpoint) which helps in retrieving the data based on the search request. 
-•	To automate the ETL process by building ETL pipelines, CloudWatch events and s3 object notification are triggered periodically as per the DlaaS architecture which involves extracting and decoding the data in the desired format implemented in the AWS platform. 
-•	Integrated the DLQ service to the architecture to tract the reason for the failure of extraction which can be the case of uploading the other file extensions.
-•	Created visualizations using Kibana, tableau, Power BI, quick sight to elevate the number of resources, location, county, street and integrated the geospatial effects to highlight the states and country along with the resources.
-
+```markdown
+*	Working on the industry (O&G) specific data standards and formats of data – seismic (.sgy), LAS and tiff files which are the standard formats for the oil and gas industry where the data is stored in the form of waves and traces not just the unstructured and structured like csv, parquet but also the binary structured files. 
+*	Extracted the data from the seismic file which is in the binary structured format and then extracted the essential information like ARN, resource extracted (oil or gas), location, country, county and many more and converted into a structured file. 
+*	Extracting the valuable information from the data which includes well location, county, resource extracted from the data files (binary, text, pdf, tiff) and converting the unstructured data into a structured data files (csv, parquet) maintaining the compatibility of all versions of the files extracted and integrating on a single format structure. 
+*	Ingesting the data into the elastic search and enhancing the capabilities of searching, querying, visualizing the data in the Kibana dev-tools (dev-endpoint) which helps in retrieving the data based on the search request. 
+*	To automate the ETL process by building ETL pipelines, CloudWatch events and s3 object notification are triggered periodically as per the DlaaS architecture which involves extracting and decoding the data in the desired format implemented in the AWS platform. 
+*	Integrated the DLQ service to the architecture to tract the reason for the failure of extraction which can be the case of uploading the other file extensions.
+*	Created visualizations using Kibana, tableau, Power BI, quick sight to elevate the number of resources, location, county, street and integrated the geospatial effects to highlight the states and country along with the resources.
+```
 
 ### Markdown
 
