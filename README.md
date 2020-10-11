@@ -1,16 +1,16 @@
 
 ## My Journey of Data Science
-<hr size="30" noshade> 
+<hr> 
 
 ## Certifications 
-<hr size="50" noshade> 
+<hr> 
 
 <a href="https://www.youracclaim.com/badges/ea4effc3-943c-4f0f-b8dc-6afe2cb2dbab"> <img src = "Images/AWSCSA.png" height = "150" width = "150"> </a> &nbsp; &nbsp; &nbsp; &nbsp; 
 <a href="https://www.youracclaim.com/badges/d9766deb-479f-47fe-9604-aad72bda10ae/linked_in_profile"> <img src = "Images/tableau.png" height = "150" width = "200"> </a> &nbsp; &nbsp; &nbsp; &nbsp; 
 <a href="https://verify.skilljar.com/c/nkgzyihh2cz8"> <img src = "Images/Dataiku.png" height = "130" width = "200"></a>
 
 ## Projects
-<hr size="4" noshade> 
+<hr> 
 <p> &#9757; &nbsp; Plugin to Integrate Pega and Dataiku </p>
 <p> &#127872; &nbsp; Jira Project </p>
 <p> &#9757; &nbsp; Image Redaction </p>
@@ -30,7 +30,7 @@
 * In order to reduce the complexity within it, we aimed at only the components which has to be derived for insightful visualizations at the higher level.
 * Using pyspark, glue and sql context, the schema was extracted and extracted the components based on the names and the custom id's per each field. 
 * Knowing which custom id specifies what data was a really important task as that broke the complex problem into a tiny pieces which can be easily processed and analyzed further. 
-* 
+
 
 ## Computer Vision - Detection of anamolies
 <hr>
