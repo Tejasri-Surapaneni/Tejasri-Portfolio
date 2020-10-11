@@ -9,17 +9,12 @@
 
 ## Projects
 
-<div id="wrap">
-  <ul>
-    <li>Plugin to Integrate Pega and Dataiku</li>
-    <li>Jira Project</li>
-    <li>Image Redaction</li>
-    <li>Conversion of speech to text and populate in the health care form</li>
-    <li>Oil and Gas Project - Seismic, las and tiff </li>
-    <li>COVID forecasting</li>
-    <li>Computer Vision - Detection of anamolies in the manufacturing industry</li>
-  </ul>
-</div>
+:point_up: Plugin to Integrate Pega and Dataiku
+* Jira Project
+* Image Redaction
+* Conversion of speech to text and populate in the health care form
+* Oil and Gas Project - Seismic, las and tiff 
+* Computer Vision - Detection of anamolies in the manufacturing industry
 
 
 ## Jira Project 
