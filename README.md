@@ -1,5 +1,5 @@
 ## My Journey of Data Science
-<hr size="3" noshade> 
+<hr size="30" noshade> 
 
 ## Certifications 
 <hr size="5" noshade> 
