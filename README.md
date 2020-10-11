@@ -9,12 +9,6 @@
 
 ## Projects
 
-<div class="block">
-<h1>Hello hello</h1>
-<p>Some even more exciting text, lorem etc.</p>
-</div>
-
-<div id="block">
 <ul>
 <li>Plugin to Integrate Pega and Dataiku</li>
 <li>Jira Project</li>
@@ -24,7 +18,7 @@
 <li>COVID forecasting</li>
 <li>Computer Vision - Detection of anamolies in the manufacturing industry</li>
 </ul>
-</div>
+
 
 
 ## Jira Project 
