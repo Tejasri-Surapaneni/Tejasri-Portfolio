@@ -9,12 +9,12 @@
 
 ## Projects_
 
-&#9757; &nbsp; Plugin to Integrate Pega and Dataiku
-&#127872; &nbsp; Jira Project
-&#9757; &nbsp; Image Redaction
-&#127872; &nbsp; Conversion of speech to text and populate in the health care form
-&#9757; &nbsp; Oil and Gas Project - Seismic, las and tiff 
-&#127872; &nbsp; Computer Vision - Detection of anamolies in the manufacturing industry
+<p> &#9757; &nbsp; Plugin to Integrate Pega and Dataiku </p>
+<p> &#127872; &nbsp; Jira Project </p>
+<p> &#9757; &nbsp; Image Redaction </p>
+<p> &#127872; &nbsp; Conversion of speech to text and populate in the health care form </p>
+<p> &#9757; &nbsp; Oil and Gas Project - Seismic, las and tiff </p>
+<p> &#127872; &nbsp; Computer Vision - Detection of anamolies in the manufacturing industry </p>
 
 
 ## Jira Project 
