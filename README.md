@@ -18,8 +18,8 @@
 <p> &#9757; &nbsp; Oil and Gas Project - Seismic, las and tiff </p>
 <p> &#127872; &nbsp; Computer Vision - Detection of anamolies in the manufacturing industry </p>
 
-
-<p style="font-size:100px">&#127800; &nbsp; <h2>Jira Project</h2> </p>
+<hr>
+<p style="font-size:50px">&#127800; &nbsp; Jira Project </p>
 <hr>
 * We all know that Jira is an Issue and Project tracking software which is used in many organizations to keep a track of multiple components for each project.
 * This tool generates an abundance of data for each ticket and surplus for each project. This data is originially retained in the JSON format which is a semi-structured data. 
