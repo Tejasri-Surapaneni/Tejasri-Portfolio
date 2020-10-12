@@ -19,9 +19,8 @@
 <p> &#127872; &nbsp; Computer Vision - Detection of anamolies in the manufacturing industry </p>
 
 
-## Jira Project 
+<p style="font-size:100px">&#127800</p>; ## Jira Project 
 <hr>
-
 * We all know that Jira is an Issue and Project tracking software which is used in many organizations to keep a track of multiple components for each project.
 * This tool generates an abundance of data for each ticket and surplus for each project. This data is originially retained in the JSON format which is a semi-structured data. 
 * Through an API call the data is fetched using the Lambda function followed by the step function which can fetch all the data through multiple iterations and then store the raw data in the S3 bucket. 
