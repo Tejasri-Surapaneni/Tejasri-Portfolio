@@ -53,6 +53,13 @@
 *	Created visualizations using Kibana, tableau, Power BI, quick sight to elevate the number of resources, location, county, street and integrated the geospatial effects to highlight the states and country along with the resources.
 
 
+<h2 id="Image">Image Redaction</h2>   
+<hr>
+
+*	This is one of the interesting projects I have worked so far and started with researching on different ways to implement the Image recognition and redaction techniques and finally implemented a model which first classifies the vehicles like shuttles, bus, moto vehicles, trucks and identify the number plates on each vehicle and redact the plate in the video
+* This model is implemented on the video where we first converted the video into single frames and then operated on the frames in the text cases and then for a video. Wrote several text cases and maintained the record of where the algorithm isn’t working properly and where it is identifying properly based on several evaluation metrics. 
+*	One of the challenges faced is in the case of redacting the number plate after identifying them the other symbols in the video in the traffic signal are also redacted and it is in the process of development for a perfection
+
 ### Markdown
 
 ```markdown
