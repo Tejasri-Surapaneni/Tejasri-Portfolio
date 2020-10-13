@@ -11,16 +11,16 @@
 
 ## Projects
 <hr> 
-<p> &#9757; &nbsp; <a href="#Plugin">Plugin to Integrate Pega and Dataiku</a> </p>
 <p> &#127872; &nbsp; <a href="#Jira_Project">JIRA Project</a> </p>
+<p> &#127872; &nbsp; <a href="#Anomalies">Computer Vision - Detection of anamolies in the manufacturing industry</a>  </p>
+<p> &#9757; &nbsp; <a href="#Oil_gas">Oil and Gas Project - Seismic, las and tiff</a>  </p>
 <p> &#9757; &nbsp; <a href="#Image">Image Redaction</a>  </p>
 <p> &#127872; &nbsp; <a href="#Speech">Conversion of speech to text and populate in the health care form</a>  </p>
-<p> &#9757; &nbsp; <a href="#Oil_gas">Oil and Gas Project - Seismic, las and tiff</a>  </p>
-<p> &#127872; &nbsp; <a href="#Anomalies">Computer Vision - Detection of anamolies in the manufacturing industry</a>  </p>
-
+<p> &#9757; &nbsp; <a href="#Plugin">Plugin to Integrate Pega and Dataiku</a> </p>
 
 <h2 id="Jira_Project">JIRA Project</h2>
 <hr>
+
 * We all know that Jira is an Issue and Project tracking software which is used in many organizations to keep a track of multiple components for each project.
 * This tool generates an abundance of data for each ticket and surplus for each project. This data is originially retained in the JSON format which is a semi-structured data. 
 * Through an API call the data is fetched using the Lambda function followed by the step function which can fetch all the data through multiple iterations and then store the raw data in the S3 bucket. 
