@@ -60,6 +60,13 @@
 * This model is implemented on the video where we first converted the video into single frames and then operated on the frames in the text cases and then for a video. Wrote several text cases and maintained the record of where the algorithm isn’t working properly and where it is identifying properly based on several evaluation metrics. 
 *	One of the challenges faced is in the case of redacting the number plate after identifying them the other symbols in the video in the traffic signal are also redacted and it is in the process of development for a perfection
 
+<h2 id="Speech">Conversion of speech to text and populate in the health care form</h2>   
+<hr>
+
+<h2 id="Plugin">Plugin to Integrate Pega and Dataiku</h2>   
+<hr>
+
+
 ### Markdown
 
 ```markdown
