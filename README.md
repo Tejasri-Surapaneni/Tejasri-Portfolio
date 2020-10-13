@@ -12,14 +12,14 @@
 ## Projects
 <hr> 
 <p> &#9757; &nbsp; Plugin to Integrate Pega and Dataiku </p>
-<p> &#127872; &nbsp; <a href="#Jira Project">JIRA Project</a> </p>
+<p> &#127872; &nbsp; <a href="#Jira_Project">JIRA Project</a> </p>
 <p> &#9757; &nbsp; Image Redaction </p>
 <p> &#127872; &nbsp; Conversion of speech to text and populate in the health care form </p>
 <p> &#9757; &nbsp; Oil and Gas Project - Seismic, las and tiff </p>
 <p> &#127872; &nbsp; Computer Vision - Detection of anamolies in the manufacturing industry </p>
 
 
-## JIRA Project
+<h2 id="Jira_Project">JIRA Project</h2>
 <hr>
 * We all know that Jira is an Issue and Project tracking software which is used in many organizations to keep a track of multiple components for each project.
 * This tool generates an abundance of data for each ticket and surplus for each project. This data is originially retained in the JSON format which is a semi-structured data. 
@@ -55,8 +55,6 @@
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
 ```markdown
 Syntax highlighted code block
 
@@ -77,10 +75,5 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+[repository settings](https://github.com/Tejasri-Surapaneni/Tejasri-Portfolio/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Tejasri-Surapaneni/Tejasri-Portfolio/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
