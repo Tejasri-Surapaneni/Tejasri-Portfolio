@@ -14,9 +14,9 @@
 <p>  &#9757; &nbsp; <a href="#Jira_Project">JIRA Project</a> </p>
 <p>  &#127872; &nbsp; <a href="#Anomalies">Computer Vision - Detection of anamolies in the manufacturing industry</a>  </p>
 <p>  &#9757; &nbsp; <a href="#Oil_gas">Oil and Gas Project - Seismic, las and tiff</a>  </p>
-<p> &#127872; &nbsp; <a href="#Image">Image Redaction</a>  </p>
-<p> &#9757; &nbsp; <a href="#Speech">Conversion of speech to text and populate in the health care form</a>  </p>
-<p> &#127872; &nbsp; <a href="#Plugin">Plugin to Integrate Pega and Dataiku</a> </p>
+<p>  &#127872; &nbsp; <a href="#Speech">Conversion of speech to text and populate in the health care form</a>  </p>
+<p>  &#9757; &nbsp; <a href="#Plugin">Plugin to Integrate Pega and Dataiku</a> </p>
+<p>  &#127872; &nbsp; <a href="#Image">Image Redaction</a>  </p>
 
 <h2 id="Jira_Project">JIRA Project</h2>
 <hr>
@@ -52,6 +52,14 @@
 *	Integrated the DLQ service to the architecture to tract the reason for the failure of extraction which can be the case of uploading the other file extensions.
 *	Created visualizations using Kibana, tableau, Power BI, quick sight to elevate the number of resources, location, county, street and integrated the geospatial effects to highlight the states and country along with the resources.
 
+<h2 id="Speech">Conversion of speech to text and populate in the health care form</h2>   
+<hr>
+
+
+
+
+<h2 id="Plugin">Plugin to Integrate Pega and Dataiku</h2>   
+<hr>
 
 <h2 id="Image">Image Redaction</h2>   
 <hr>
@@ -59,13 +67,6 @@
 *	This is one of the interesting projects I have worked so far and started with researching on different ways to implement the Image recognition and redaction techniques and finally implemented a model which first classifies the vehicles like shuttles, bus, moto vehicles, trucks and identify the number plates on each vehicle and redact the plate in the video
 * This model is implemented on the video where we first converted the video into single frames and then operated on the frames in the text cases and then for a video. Wrote several text cases and maintained the record of where the algorithm isn’t working properly and where it is identifying properly based on several evaluation metrics. 
 *	One of the challenges faced is in the case of redacting the number plate after identifying them the other symbols in the video in the traffic signal are also redacted and it is in the process of development for a perfection
-
-<h2 id="Speech">Conversion of speech to text and populate in the health care form</h2>   
-<hr>
-
-<h2 id="Plugin">Plugin to Integrate Pega and Dataiku</h2>   
-<hr>
-
 
 ### Markdown
 
