@@ -6,8 +6,8 @@
 <hr> 
 
 <a href="https://www.youracclaim.com/badges/ea4effc3-943c-4f0f-b8dc-6afe2cb2dbab" target="_blank"> <img src = "Images/AWSCSA.png" height = "150" width = "150"> </a> &nbsp; &nbsp; &nbsp; &nbsp; 
-<a href="https://www.youracclaim.com/badges/d9766deb-479f-47fe-9604-aad72bda10ae/linked_in_profile"> <img src = "Images/tableau.png" height = "150" width = "200"> </a> &nbsp; &nbsp; &nbsp; &nbsp; 
-<a href="https://verify.skilljar.com/c/nkgzyihh2cz8"> <img src = "Images/Dataiku.png" height = "130" width = "200"></a>
+<a href="https://www.youracclaim.com/badges/d9766deb-479f-47fe-9604-aad72bda10ae/linked_in_profile" target="_blank"> <img src = "Images/tableau.png" height = "150" width = "200"> </a> &nbsp; &nbsp; &nbsp; &nbsp; 
+<a href="https://verify.skilljar.com/c/nkgzyihh2cz8" target="_blank"> <img src = "Images/Dataiku.png" height = "130" width = "200"></a>
 
 ## Projects
 <hr> 
