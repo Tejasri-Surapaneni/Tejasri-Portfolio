@@ -11,11 +11,11 @@
 
 ## Projects
 <hr> 
-<p> &#9757; &nbsp; Plugin to Integrate Pega and Dataiku </p>
+<p> &#9757; &nbsp; <a href="#Plugin">Plugin to Integrate Pega and Dataiku</a> </p>
 <p> &#127872; &nbsp; <a href="#Jira_Project">JIRA Project</a> </p>
-<p> &#9757; &nbsp; Image Redaction </p>
-<p> &#127872; &nbsp; Conversion of speech to text and populate in the health care form </p>
-<p> &#9757; &nbsp; Oil and Gas Project - Seismic, las and tiff </p>
+<p> &#9757; &nbsp; <a href="#Image">Image Redaction</a>  </p>
+<p> &#127872; &nbsp; <a href="#Speech">Conversion of speech to text and populate in the health care form</a>  </p>
+<p> &#9757; &nbsp; <a href="#Oil_gas">Oil and Gas Project - Seismic, las and tiff</a>  </p>
 <p> &#127872; &nbsp; <a href="#Anomalies">Computer Vision - Detection of anamolies in the manufacturing industry</a>  </p>
 
 
@@ -41,7 +41,7 @@
 * Working with structured data, writing queries to extract, load and transform the data in SQL, querying in Athena. Implemented data manipulation, wrangling and visualizing the data for building useful and significant insights and empowering them using the dashboards of tableau, Power BI and AWS Quick sight. 
 *	Worked on automating the ETL pipelines separately based on the domain data and the structure of it. 
 
-## Oil and Gas Project - Seismic, las and tiff 
+<h2 id="Oil_gas">Oil and Gas Project - Seismic, las and tiff</h2>   
 <hr>
 
 *	Working on the industry (O&G) specific data standards and formats of data – seismic (.sgy), LAS and tiff files which are the standard formats for the oil and gas industry where the data is stored in the form of waves and traces not just the unstructured and structured like csv, parquet but also the binary structured files. 
