@@ -75,5 +75,4 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-[repository settings](https://github.com/Tejasri-Surapaneni/Tejasri-Portfolio/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
