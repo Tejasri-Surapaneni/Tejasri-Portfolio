@@ -11,12 +11,12 @@
 
 ## Projects
 <hr> 
-<p> &#127872; &nbsp; <a href="#Jira_Project">JIRA Project</a> </p>
-<p> &#127872; &nbsp; <a href="#Anomalies">Computer Vision - Detection of anamolies in the manufacturing industry</a>  </p>
-<p> &#9757; &nbsp; <a href="#Oil_gas">Oil and Gas Project - Seismic, las and tiff</a>  </p>
-<p> &#9757; &nbsp; <a href="#Image">Image Redaction</a>  </p>
-<p> &#127872; &nbsp; <a href="#Speech">Conversion of speech to text and populate in the health care form</a>  </p>
-<p> &#9757; &nbsp; <a href="#Plugin">Plugin to Integrate Pega and Dataiku</a> </p>
+<p>  &#9757; &nbsp; <a href="#Jira_Project">JIRA Project</a> </p>
+<p>  &#127872; &nbsp; <a href="#Anomalies">Computer Vision - Detection of anamolies in the manufacturing industry</a>  </p>
+<p>  &#9757; &nbsp; <a href="#Oil_gas">Oil and Gas Project - Seismic, las and tiff</a>  </p>
+<p> &#127872; &nbsp; <a href="#Image">Image Redaction</a>  </p>
+<p> &#9757; &nbsp; <a href="#Speech">Conversion of speech to text and populate in the health care form</a>  </p>
+<p> &#127872; &nbsp; <a href="#Plugin">Plugin to Integrate Pega and Dataiku</a> </p>
 
 <h2 id="Jira_Project">JIRA Project</h2>
 <hr>
