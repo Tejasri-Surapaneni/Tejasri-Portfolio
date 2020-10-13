@@ -16,7 +16,7 @@
 <p> &#9757; &nbsp; Image Redaction </p>
 <p> &#127872; &nbsp; Conversion of speech to text and populate in the health care form </p>
 <p> &#9757; &nbsp; Oil and Gas Project - Seismic, las and tiff </p>
-<p> &#127872; &nbsp; Computer Vision - Detection of anamolies in the manufacturing industry </p>
+<p> &#127872; &nbsp; <a href="#Anomalies">Computer Vision - Detection of anamolies in the manufacturing industry</a>  </p>
 
 
 <h2 id="Jira_Project">JIRA Project</h2>
@@ -31,7 +31,7 @@
 * Knowing which custom id specifies what data was a really important task as that broke the complex problem into a tiny pieces which can be easily processed and analyzed further. 
 
 
-## Computer Vision - Detection of anamolies
+<h2 id="Anomalies">Computer Vision - Detection of anamolies</h2> 
 <hr>
 
 *	Worked on the computer vision project which is real time detection of anomalies in the manufacturing steel industry using computer vision techniques and algorithms. 
