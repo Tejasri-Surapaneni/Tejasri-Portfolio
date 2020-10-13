@@ -12,7 +12,7 @@
 ## Projects
 <hr> 
 <p> &#9757; &nbsp; Plugin to Integrate Pega and Dataiku </p>
-<p> &#127872; &nbsp; <h2 id = "Jira_Project"> JIRA Project </h2> <a href="#Jira_Project">JIRA Project</a> </p>
+<p> &#127872; &nbsp; <a href="#Jira Project">JIRA Project</a> </p>
 <p> &#9757; &nbsp; Image Redaction </p>
 <p> &#127872; &nbsp; Conversion of speech to text and populate in the health care form </p>
 <p> &#9757; &nbsp; Oil and Gas Project - Seismic, las and tiff </p>
