@@ -55,8 +55,16 @@
 <h2 id="Speech">Conversion of speech to text and populate in the health care form</h2>   
 <hr>
 
+* This project aims at converting the speech to text and then populate the data from the text into the fields in the health care form.
+* There are different ways of converting the speech to text and researched on those ways and procedure on how to convert the speech to text and then found out few python packages like pyaudio, speech_recognition etc.
+* Although there are multiple ways and packages available in the market for this process of conversion we used assemply ai docs API calls which converted the speech to text within few lines of code.
+* We will be given an API token and then the speech files of any format (.wav,.mp3) have to be uploaded to the API with the token authentication which process the input. 
+* The output of the transcription of the processing unit status changes from queued to processing and from processing to Completed.
+* When the status is changed to completed the output will be displayed with the text which is a conversion from the speech. 
+* To extract the required data fields from the text and to populate the extracted data into the form NLP is used.
+* Various packages and procedures of NLP are used to extract the relevant text and then fill in the form.
 
-
+<p>  &#9997;  &nbsp; <b> NOTE:</b> The process and the form are kept confidential as that was done to one of our prestigious client </p>
 
 <h2 id="Plugin">Plugin to Integrate Pega and Dataiku</h2>   
 <hr>
@@ -66,7 +74,6 @@
 
 *	This is one of the interesting projects I have worked so far and started with researching on different ways to implement the Image recognition and redaction techniques and finally implemented a model which first classifies the vehicles like shuttles, bus, moto vehicles, trucks and identify the number plates on each vehicle and redact the plate in the video
 * This model is implemented on the video where we first converted the video into single frames and then operated on the frames in the text cases and then for a video. Wrote several text cases and maintained the record of where the algorithm isn’t working properly and where it is identifying properly based on several evaluation metrics. 
-*	One of the challenges faced is in the case of redacting the number plate after identifying them the other symbols in the video in the traffic signal are also redacted and it is in the process of development for a perfection
 
 ### Markdown
 
