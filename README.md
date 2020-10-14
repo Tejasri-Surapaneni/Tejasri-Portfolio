@@ -64,7 +64,7 @@
 * To extract the required data fields from the text and to populate the extracted data into the form NLP is used.
 * Various packages and procedures of NLP are used to extract the relevant text and then fill in the form.
 
-<p>  &#9997;  &nbsp; <b> NOTE:</b> The process and the form are kept confidential as that was done to one of our prestigious client </p>
+<p style="font-size:50px">  &#9997;  &nbsp; <b> NOTE:</b> The process and the form are kept confidential as that was done to one of our prestigious client </p><p> is this</p>
 
 <h2 id="Plugin">Plugin to Integrate Pega and Dataiku</h2>   
 <hr>
