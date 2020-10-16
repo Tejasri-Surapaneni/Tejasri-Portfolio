@@ -2,7 +2,6 @@
 ## My Journey of Data Science
 <hr> 
 
-
 <table border="5" bordercolor="hotpink" align="left">
     <tr>
         <th colspan="3"></th> 
@@ -26,7 +25,8 @@
      </tr>
 </table>
 
-
+</hr>
+<hr>
 ## Certifications 
 <hr> 
 
