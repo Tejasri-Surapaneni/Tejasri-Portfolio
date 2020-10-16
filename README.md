@@ -21,12 +21,18 @@
     </tr>
     <tr>
         <td border=5 height=100 width=300> <b> Tableau Desktop Specialist </b> </td>
-        <td border=5 height=100 width=300> <a href="https://www.youracclaim.com/badges/d9766deb-479f-47fe-9604-aad72bda10ae/linked_in_profile" target="_blank"> <img src = "Images/tableau.png" height = "150" width = "150"> </td>
+        <td border=5 height=100 width=300> <a href="https://www.youracclaim.com/badges/d9766deb-479f-47fe-9604-aad72bda10ae/linked_in_profile" target="_blank"> <img src = "Images/tableau.png" height = "150" width = "200"> </td>
     </tr>
     <tr>
-        <td>Ängelholm, Sweden</td>
-        <td border=5 height=100 width=300>Photo1</td>
+        <td border=5 height=100 width=300> DataIKU Level 1 </td>
+        <td border=5 height=100 width=300> <a href="" target="_blank"> <img src = "Images/Level_1.png" height = "150" width = "150"> </a> </td>
      </tr>
+     <tr>
+        <td border=5 height=100 width=300> DataIKU Level 2 - Advanced DSS Design and Data Science </td>
+        <td border=5 height=100 width=300> <a href="" target="_blank"> <img src = "Images/Level_2.png" height = "150" width = "150"> </a> </td>
+     </tr>
+     
+
      
 </table>
 
