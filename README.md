@@ -2,21 +2,21 @@
 ## My Journey of Data Science
 <hr> 
 
-<table border="5" bordercolor="hotpink" align="left">
+<table border="5" bordercolor="violet" align="Center">
     <tr>
-        <th colspan="3"></th> 
+        <th colspan="2"></th> 
     </tr>
     <tr>
         <th>Name</th>
-        <th>Cert</th>
+        <th>Certification</th>
     </tr>
     <tr>
                 <!-- considering it is on the same folder that .html file -->
-        <td><img src=".\A.jpeg" alt="" border=3 height=100 width=300></img></th>
+        <td> AWS Certified Solution Architect - Associate </th>
         <td> <img src = "Images/dssexpert.png" height = "150" width = "150"> </th>
     </tr>
     <tr>
-        <td>United States</th>
+        <td><img src=".\A.jpeg" alt="" border=3 height=100 width=300></img></th>
         <td border=3 height=100 width=100>Photo1</th>
     </tr>
     <tr>
@@ -25,8 +25,7 @@
      </tr>
 </table>
 
-</hr>
-<hr>
+
 ## Certifications 
 <hr> 
 
