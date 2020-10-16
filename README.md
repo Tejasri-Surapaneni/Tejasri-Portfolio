@@ -10,9 +10,9 @@
 <a href="" target="_blank"> <img src = "Images/dssexpert.png" height = "150" width = "150"> </a> &nbsp; &nbsp; &nbsp; &nbsp; 
 <a href="" target="_blank"> <img src = "Images/Level_1.png" height = "150" width = "150"> </a> &nbsp; &nbsp; &nbsp; &nbsp; 
 <a href="" target="_blank"> <img src = "Images/Level_2.png" height = "150" width = "150"> </a> &nbsp; &nbsp; &nbsp; &nbsp; 
-<a href="https://verify.skilljar.com/c/nkgzyihh2cz8" target="_blank"> <img src = "Images/ML_Practitioner.png" height = "150" width = "200"> </a> &nbsp; &nbsp; &nbsp; &nbsp; 
+<a href="https://verify.skilljar.com/c/nkgzyihh2cz8" target="_blank"> <img src = "Images/ML_Practitioner.png" height = "150" width = "250"> </a> &nbsp; &nbsp; &nbsp; &nbsp; 
 <a href="" target="_blank"> <img src = "Images/Demomaster.png" height = "150" width = "150"> </a> &nbsp; &nbsp; &nbsp; &nbsp; 
-<a href="https://verify.skilljar.com/c/si5i4zj89mrz" target="_blank"> <img src = "Images/Core_Designer.png" height = "150" width = "200"> </a> &nbsp; &nbsp; &nbsp; &nbsp; 
+<a href="https://verify.skilljar.com/c/si5i4zj89mrz" target="_blank"> <img src = "Images/Core_Designer.png" height = "150" width = "250"> </a> &nbsp; &nbsp; &nbsp; &nbsp; 
 
 ## Projects
 <hr> 
