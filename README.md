@@ -2,7 +2,7 @@
 ## My Journey of Data Science
 <hr> 
 
-<table border="5" bordercolor="violet" align="Center">
+<table border="5" bordercolor="hotpink" align="Center">
     <tr>
         <th colspan="2"></th> 
     </tr>
@@ -12,7 +12,7 @@
     </tr>
     <tr>
                 <!-- considering it is on the same folder that .html file -->
-        <td border=3 height=100 width=100> <b> AWS Certified Solution Architect - Associate </b> </th>
+        <td> <b> AWS Certified Solution Architect - Associate </b> </th>
         <td> <a href="https://www.youracclaim.com/badges/ea4effc3-943c-4f0f-b8dc-6afe2cb2dbab" target="_blank"> <img src = "Images/AWSCSA.png" height = "150" width = "150"> </th>
     </tr>
     <tr>
@@ -23,6 +23,7 @@
         <td>Ängelholm, Sweden</th>
         <td border=4 height=100 width=300>Photo1</th>
      </tr>
+     
 </table>
 
 
