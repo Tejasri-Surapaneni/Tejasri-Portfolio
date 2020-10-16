@@ -12,8 +12,8 @@
     </tr>
     <tr>
                 <!-- considering it is on the same folder that .html file -->
-        <td> <b> AWS Certified Solution Architect - Associate </b> </th>
-        <td> <a href="https://www.youracclaim.com/badges/ea4effc3-943c-4f0f-b8dc-6afe2cb2dbab" target="_blank"> <img src = "Images/AWSCSA.png" height = "150" width = "150"> </th>
+        <td border=4 height=100 width=500> <b> AWS Certified Solution Architect - Associate </b> </th>
+        <td border=4 height=100 width=500> <a href="https://www.youracclaim.com/badges/ea4effc3-943c-4f0f-b8dc-6afe2cb2dbab" target="_blank"> <img src = "Images/AWSCSA.png" height = "150" width = "150"> </th>
     </tr>
     <tr>
         <td border=3 height=100 width=100> <b> Tableau Desktop Specialist </b> </th>
