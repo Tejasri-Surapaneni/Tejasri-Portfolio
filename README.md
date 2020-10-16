@@ -69,6 +69,18 @@
 <h2 id="Plugin">Plugin to Integrate Pega and Dataiku</h2>   
 <hr>
 
+* This project aims at integrating 2 platforms - Pega PRPC which is a BPM tool and Dataiku which is a data science platform. 
+* The main notion behind this integration is that to implement the machine learnign models on the application data.
+* The main challenge is that in Pega BPM we can expose the application API but not the generic API which has the data in regards to all the applications in the tool. As this turned into one of our major concerns and in order to move forward in this development we started with a specific application API initially.
+* We exposed the API related to the specific application which was doen to one of our clients and then extracted the data from the REST API.
+* In order to fetch the data through API calls and upload into the DataIKU workspace flow, a Plugin has to be developed which does this job perfect in a defined framework. This can be done in a code recipe too in a flow after uploading the data but as we would like to build a proper structured framework which can be a same pipeline to be followed whenever a new application data has to be uploaded from Pega.
+* A custom built in plugin is developed using the Python code recipe. After testing in the code notebooks then converted the plugin into the plugin. 
+* A plugin in dataiku should have 2 code rceipes which are .py and .json. The python code has the code which is made slightly generic by including the variables which can be called before running the code.
+* the .json code provides us the ability to define the parameters to input to the .py code. For instance in the plugin developed in this project, we featured 2 parameters one is to input the API and the other one is to input the format which conveys to which format we would like to convert the data which is fecthed from the API (CSV, XML, more..).
+* These parameters helps in receiving the input and then these inputs are taken as variables which are called in the actual .py code and then executed. 
+* One of the feature parameter which is used to input the API link, serves the purpose of both generic and specific application data fetching. If in future we were able to expose the generic API which can fetch all the applications data, the plugin is still the same and the input can be varied according the API's which we have to covnert it into. 
+* If once we input both these featured parameters ( API link, data format to convert into) they are automatically processed and the output datasets which are converted into the specific formats are displayed in the flow for further processing or for implementing the Machine learning models. 
+
 <h2 id="Image">Image Redaction</h2>   
 <hr>
 
