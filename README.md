@@ -7,11 +7,9 @@
 
 <a href="https://www.youracclaim.com/badges/ea4effc3-943c-4f0f-b8dc-6afe2cb2dbab" target="_blank"> <img src = "Images/AWSCSA.png" height = "150" width = "150"> </a> &nbsp; &nbsp; &nbsp; &nbsp; 
 <a href="https://www.youracclaim.com/badges/d9766deb-479f-47fe-9604-aad72bda10ae/linked_in_profile" target="_blank"> <img src = "Images/tableau.png" height = "150" width = "200"> </a> &nbsp; &nbsp; &nbsp; &nbsp; 
-<a href=" " target="_blank"> <img src = "Images/DSSEXPERT.png" height = "130" width = "200"></a> &nbsp; &nbsp; &nbsp; &nbsp;
-<a href="" target="_blank"> <img src = "Images/level2.png" height = "130" width = "200"></a> &nbsp; &nbsp; &nbsp; &nbsp;
-<a href=" " target="_blank"> <img src = "Images/level _1.png" height = "130" width = "200"></a> &nbsp; &nbsp; &nbsp; &nbsp;
-<a href="https://verify.skilljar.com/c/si5i4zj89mrz" target="_blank"> <img src = "Images/Core_Designer.png" height = "130" width = "200"></a> &nbsp; &nbsp; &nbsp; &nbsp;
-<a href="https://verify.skilljar.com/c/nkgzyihh2cz8" target="_blank"> <img src = "Images/ML_Practitioner.png" height = "130" width = "200"></a>
+<a href=" " target="_blank"> <img src = "Images/DSSEXPERT.png" height = "100" width = "100"></a> &nbsp; &nbsp; &nbsp; &nbsp;
+<a href="https://verify.skilljar.com/c/nkgzyihh2cz8" target="_blank"> <img src = "Images/Dataiku.png" height = "130" width = "200"></a> &nbsp; &nbsp; &nbsp; &nbsp;
+
 
 
 ## Projects
