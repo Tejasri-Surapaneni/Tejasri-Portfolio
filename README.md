@@ -12,10 +12,9 @@
         <th>Cert</th>
     </tr>
     <tr>
-        <td>Molsheim, Alsace, France</th>
                 <!-- considering it is on the same folder that .html file -->
         <td><img src=".\A.jpeg" alt="" border=3 height=100 width=300></img></th>
-        <td> <a href="" target="_blank"> <img src = "Images/dssexpert.png" height = "150" width = "150"> </a></th>
+        <td> <img src = "Images/dssexpert.png" height = "150" width = "150"> </th>
     </tr>
     <tr>
         <td>United States</th>
