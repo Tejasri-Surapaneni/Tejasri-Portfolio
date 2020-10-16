@@ -26,6 +26,8 @@
         <td border=4 height=100 width=300>Photo1</th>
      </tr>
 </table>
+
+
 ## Certifications 
 <hr> 
 
