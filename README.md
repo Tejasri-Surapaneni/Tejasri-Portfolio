@@ -13,7 +13,7 @@
     <tr>
                 <!-- considering it is on the same folder that .html file -->
         <td> AWS Certified Solution Architect - Associate </th>
-        <td> <img src = "Images/dssexpert.png" height = "150" width = "150"> </th>
+        <td> <a href="https://www.youracclaim.com/badges/ea4effc3-943c-4f0f-b8dc-6afe2cb2dbab" target="_blank"> <img src = "Images/AWSCSA.png" height = "150" width = "150"> </th>
     </tr>
     <tr>
         <td><img src=".\A.jpeg" alt="" border=3 height=100 width=300></img></th>
