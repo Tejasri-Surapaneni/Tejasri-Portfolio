@@ -2,6 +2,10 @@
 ## My Journey of Data Science
 <hr> 
 
+## Certifications 
+<hr> 
+
+
 <table border="5" bordercolor="hotpink" align="Center">
     <tr>
         <th colspan="2"></th> 
@@ -12,12 +16,12 @@
     </tr>
     <tr>
                 <!-- considering it is on the same folder that .html file -->
-        <td border=4 height=100 width=400> <b> AWS Certified Solution Architect - Associate </b> </th>
+        <td border=4 height=100 width=300> <b> AWS Certified Solution Architect - Associate </b> </th>
         <td border=4 height=100 width=300> <a href="https://www.youracclaim.com/badges/ea4effc3-943c-4f0f-b8dc-6afe2cb2dbab" target="_blank"> <img src = "Images/AWSCSA.png" height = "150" width = "150"> </th>
     </tr>
     <tr>
-        <td border=3 height=100 width=100> <b> Tableau Desktop Specialist </b> </th>
-        <td> <a href="https://www.youracclaim.com/badges/d9766deb-479f-47fe-9604-aad72bda10ae/linked_in_profile" target="_blank"> <img src = "Images/tableau.png" height = "150" width = "150"> </th>
+        <td border=3 height=100 width=300> <b> Tableau Desktop Specialist </b> </th>
+        <td border=4 height=100 width=300> <a href="https://www.youracclaim.com/badges/d9766deb-479f-47fe-9604-aad72bda10ae/linked_in_profile" target="_blank"> <img src = "Images/tableau.png" height = "150" width = "150"> </th>
     </tr>
     <tr>
         <td>Ängelholm, Sweden</th>
@@ -25,10 +29,6 @@
      </tr>
      
 </table>
-
-
-## Certifications 
-<hr> 
 
 <a href="https://www.youracclaim.com/badges/ea4effc3-943c-4f0f-b8dc-6afe2cb2dbab" target="_blank"> <img src = "Images/AWSCSA.png" height = "150" width = "150"> </a> &nbsp; &nbsp; &nbsp; &nbsp; 
 <a href="https://www.youracclaim.com/badges/d9766deb-479f-47fe-9604-aad72bda10ae/linked_in_profile" target="_blank"> <img src = "Images/tableau.png" height = "150" width = "150"> </a> &nbsp; &nbsp; &nbsp; &nbsp; 
