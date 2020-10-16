@@ -5,45 +5,6 @@
 ## Certifications 
 <hr> 
 
-
-<table border="5" bordercolor="hotpink" align="Center">
-    <tr>
-        <th colspan="2"> </th> 
-    </tr>
-    <tr>
-        <th>Name</th>
-        <th>Certification</th>
-    </tr>
-    <tr>
-                <!-- considering it is on the same folder that .html file -->
-        <td border=5 height=100 width=300> <b> AWS Certified Solution Architect - Associate </b> </td>
-        <td border=5 height=100 width=300> <a href="https://www.youracclaim.com/badges/ea4effc3-943c-4f0f-b8dc-6afe2cb2dbab" target="_blank"> <img src = "Images/AWSCSA.png" height = "150" width = "150"> </td>
-    </tr>
-    <tr>
-        <td border=5 height=100 width=300> <b> Tableau Desktop Specialist </b> </td>
-        <td border=5 height=100 width=300> <a href="https://www.youracclaim.com/badges/d9766deb-479f-47fe-9604-aad72bda10ae/linked_in_profile" target="_blank"> <img src = "Images/tableau.png" height = "150" width = "200"> </td>
-    </tr>
-    <tr>
-        <td border=5 height=100 width=300> <b> DataIKU Level 1 </b> </td>
-        <td border=5 height=100 width=300> <a href="" target="_blank"> <img src = "Images/Level_1.png" height = "150" width = "150"> </a> </td>
-     </tr>
-     <tr>
-        <td border=5 height=100 width=300> <b> DataIKU Level 2 - Advanced DSS Design and Data Science </b> </td>
-        <td border=5 height=100 width=300> <a href="" target="_blank"> <img src = "Images/Level_2.png" height = "150" width = "150"> </a> </td>
-     </tr>
-     <tr>
-        <td border=5 height=100 width=300> <b> DataIKU ML_Practitioner </b> </td>
-        <td border=5 height=100 width=300> <a href="https://verify.skilljar.com/c/nkgzyihh2cz8" target="_blank"> <img src = "Images/ML_Practitioner.png" height = "150" width = "200"> </a> </td>
-     </tr>  
-     <tr>
-        <td border=5 height=100 width=300> <b> DataIKU Core_Designer </b> </td>
-        <td border=5 height=100 width=300> <a href="https://verify.skilljar.com/c/si5i4zj89mrz" target="_blank"> <img src = "Images/Core_Designer.png" height = "150" width = "200"> </a> </td>
-     </tr>  
-     
-
-     
-</table>
-
 <a href="https://www.youracclaim.com/badges/ea4effc3-943c-4f0f-b8dc-6afe2cb2dbab" target="_blank"> <img src = "Images/AWSCSA.png" height = "150" width = "150"> </a> &nbsp; &nbsp; &nbsp; &nbsp; 
 <a href="https://www.youracclaim.com/badges/d9766deb-479f-47fe-9604-aad72bda10ae/linked_in_profile" target="_blank"> <img src = "Images/tableau.png" height = "150" width = "150"> </a> &nbsp; &nbsp; &nbsp; &nbsp; 
 <a href="" target="_blank"> <img src = "Images/dssexpert.png" height = "150" width = "150"> </a> &nbsp; &nbsp; &nbsp; &nbsp; 
